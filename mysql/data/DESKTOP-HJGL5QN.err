@@ -1,0 +1,6 @@
+2019-12-20T22:20:04.751992Z 0 [System] [MY-010116] [Server] C:\Users\ginom\Desktop\SRMS\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 9964
+2019-12-21T09:25:44.150193Z 0 [System] [MY-010116] [Server] C:\Users\ginom\Desktop\SRMS\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 3276
+2019-12-21T09:25:57.182934Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-12-21T09:25:58.215545Z 0 [ERROR] [MY-000068] [Server] unknown option '--consoe'.
+2019-12-21T09:25:58.365554Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-12-21T09:26:00.385933Z 0 [System] [MY-010910] [Server] C:\Users\ginom\Desktop\SRMS\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
